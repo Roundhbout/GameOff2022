@@ -53,4 +53,15 @@
     - timing window can be based on BPM'
     - amen breaks somewhere in there
     - could do this with other instruments possibly, maybe a horn to "toot your own horn"
-
+- Make a statement without saying a word
+    - Silent protagonists are pretty prevalent, and could also be considered cliché.  Maybe a game where the protagonist communicates via charades
+- The world is your oyster
+    - Game of life (board game)
+    - Freedom of being self-directed like a sandbox game
+    - Branching paths to develop and explore the world
+    - Interact-ables and Minigames invite you to progress, develop relationships with NPCs, and do whatever you want within reason.
+    - Inspired also from Stardew Valley
+- Cliché otome visual novel
+    - clearly subversion is possible (thank you DDLC)
+    - I think a fun one could be that you actually just become friends with everyone instead and romancing anyone was never an option.
+    - Soft vibes.
