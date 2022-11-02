@@ -68,3 +68,5 @@
 - Money can't buy you happiness & Money is the root of all evil
     - A rpg as an unsuspecting merchant where through running your business you discover the literal corruption of wealth, and how it affects everyone.  How you run your business with this knowledge is how you could save your city from money or succumb to it yourself.
     - The game would not tell the player the true nature of the currency, so if the player uncovers nothing and only amasses wealth, their choices will slowly be restricted to evil ones.  In this scenario the game would end once the merchant is no longer good.
+- Nothing new under the sun
+    - I don’t have that many ideas for this one, just that you can only make discoveries in areas that aren’t illuminated.  Kind of like that idea you had earlier about only being able to see behind you.
